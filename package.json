@@ -1,0 +1,9 @@
+{
+  "name": "secure-webapp",
+  "version": "1.0.0",
+  "description": "Optimized and secure Dockerized Node.js application",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
